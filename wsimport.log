@@ -1,0 +1,12 @@
+parsing WSDL...
+
+
+[WARNING] SOAP port "NumberConversionSoap12": uses a non-standard SOAP 1.2 binding.
+  line 106 of https://www.dataaccess.com/webservicesserver/NumberConversion.wso?WSDL
+
+
+Generating code...
+
+
+Compiling code...
+
